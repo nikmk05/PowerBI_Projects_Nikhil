@@ -136,5 +136,59 @@ Snap of Power BI service Page
 ![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/68a8c442-e094-49e9-b1c7-bb283faca120)
 
 
+==================================================================================================================================================================
+
+# Workfoce Analytics Dashboard
+
+Workforce Analytics dashboards in Power BI provide valuable insights into an organization's human resources data. These dashboards typically focus on key metrics related to workforce management, employee performance, and HR analytics
+
+Snap of Landing Page.
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/6a1e1ffd-f031-4e64-ba02-ca8782fc006c)
+
+
+Snap of Staff Count Report
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/69483e84-4218-4374-860b-b4db88c2c48c)
+
+Snap of Tooltip for Company wise staff count
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/bea2adf0-456d-4bff-b68d-e3ea6565a11f)
+
+
+Snap of Staff Count Regional Report.
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/1005f988-1e99-4819-a1b0-c2f3b6a8f0d9)
+
+Snap of Tooltip for Country wise staff count
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/6fa1623b-a86d-44c1-bd5b-2f0311b5e3bc)
+
+
+Snap of Position/Fill Unfill Report.
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/70fc121b-6f79-440f-a059-ce5b4f620b47)
+
+Snap of Self Service Page.
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/ea8d2ece-0192-4387-ae9f-fa276498fa0b)
+
+Features added
+- Page Navigation
+- Landing page
+- Home button
+- Advanced Page level Tooltip
+- Dynamic titles
+- Bookmarks
+
+
+Finally we Publish the file to Power BI Service Page 
+
+
+Snap of Power BI service Page
+
+![Snap_1](https://github.com/nikmk05/PowerBI_Projects_Nikhil/assets/121431424/62d2aec1-12b1-4c46-84e7-1dbb8db9a7bf)
+
+===================================================================================================================================================================
 
 
